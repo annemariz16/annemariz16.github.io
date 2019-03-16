@@ -1894,6 +1894,9 @@ body {
 .cid-rkQy4rw9EP .mbr-content-text P {
   text-align: left;
 }
+.cid-rkQy4rw9EP P {
+  text-align: left;
+}
 .cid-rkQBAfwjPh {
   padding-top: 0px;
   padding-bottom: 0px;
@@ -1951,6 +1954,12 @@ body {
 .cid-rkQBAfwjPh .mbr-content-text P {
   color: #232323;
 }
+.cid-rkQBAfwjPh P {
+  text-align: left;
+}
+.cid-rkQBAfwjPh H4 {
+  text-align: left;
+}
 .cid-rkQEgYauZP {
   padding-top: 0px;
   padding-bottom: 90px;
@@ -2004,6 +2013,12 @@ body {
     padding-left: 0;
     padding-bottom: 2rem;
   }
+}
+.cid-rkQEgYauZP P {
+  text-align: left;
+}
+.cid-rkQEgYauZP H4 {
+  text-align: left;
 }
 .cid-rkQFKspjWr {
   background: #ffffff;
